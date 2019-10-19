@@ -1,0 +1,2 @@
+# Emlak
+ EMlak Satış Otomasyonu
