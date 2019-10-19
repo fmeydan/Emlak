@@ -1,2 +1,2 @@
 # Emlak
- EMlak Satış Otomasyonu
+ Çok katmanlı mimari ile oluşturulmuş emlak satış otomasyonu.
