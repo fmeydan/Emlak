@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d9193e4a3c0d44cc9e27c2b73136fe6e" Name="Diagram1">
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.Bankalar" Width="1.5" PointX="0.75" PointY="11.625" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.DaireFiyatları" Width="1.5" PointX="5.25" PointY="4.75" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.Daireler" Width="1.5" PointX="3" PointY="5.75" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.DaireOzellikleri" Width="1.5" PointX="5.25" PointY="11" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.Gelirler" Width="1.5" PointX="13" PointY="13.75" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.GelirTurleri" Width="1.5" PointX="10.75" PointY="14" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.Giderler" Width="1.5" PointX="13" PointY="9.75" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.GiderTurleri" Width="1.5" PointX="10.75" PointY="10" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.ilceler" Width="1.5" PointX="13" PointY="6.75" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.iller" Width="1.5" PointX="10.75" PointY="6.875" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.isinmaBicimi" Width="1.5" PointX="0.75" PointY="2.625" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.Kategoriler" Width="1.5" PointX="0.75" PointY="7.375" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.Kullanicilar" Width="1.5" PointX="11" PointY="2.75" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.MusteriDaireleri" Width="1.5" PointX="8.25" PointY="6.875" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.Musteriler" Width="1.5" PointX="6" PointY="0.75" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.Personeller" Width="1.5" PointX="13.75" PointY="2.625" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="15.625" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.Taksitler" Width="1.5" PointX="8.25" PointY="10.875" />
+        <EntityTypeShape EntityType="EmlakMelegiDBModel.Yetkiler" Width="1.5" PointX="8.75" PointY="3" />
+        <AssociationConnector Association="EmlakMelegiDBModel.FK_DaireFiyatları_Daireler" />
+        <AssociationConnector Association="EmlakMelegiDBModel.FK_Daireler_Kategoriler" />
+        <AssociationConnector Association="EmlakMelegiDBModel.FK_DaireOzellikleri_Daireler" />
+        <AssociationConnector Association="EmlakMelegiDBModel.FK_MusteriDaireleri_Daireler" />
+        <AssociationConnector Association="EmlakMelegiDBModel.FK_Gelirler_GelirTurleri" />
+        <AssociationConnector Association="EmlakMelegiDBModel.FK_Giderler_GiderTurleri" />
+        <AssociationConnector Association="EmlakMelegiDBModel.FK_ilceler_iller" />
+        <AssociationConnector Association="EmlakMelegiDBModel.FK_Kullanicilar_Yetkiler" />
+        <AssociationConnector Association="EmlakMelegiDBModel.FK_MusteriDaireleri_Musteriler" />
+        <AssociationConnector Association="EmlakMelegiDBModel.FK_Taksitler_Musteriler" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

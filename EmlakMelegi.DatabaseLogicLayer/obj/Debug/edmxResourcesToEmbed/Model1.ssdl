@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmlakMelegiDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Bankalar">
+    <Key>
+      <PropertyRef Name="BankalarID" />
+    </Key>
+    <Property Name="BankalarID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BankaAdi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="SubeKodu" Type="nvarchar" MaxLength="50" />
+    <Property Name="ilceKoduID" Type="int" />
+    <Property Name="KartTanimi" Type="nvarchar" MaxLength="50" />
+    <Property Name="KartSeriNo" Type="nvarchar" MaxLength="10" />
+    <Property Name="Iban" Type="nvarchar" MaxLength="50" />
+    <Property Name="HesapNo" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="DaireFiyatları">
+    <Key>
+      <PropertyRef Name="DaireFiyatlarıID" />
+    </Key>
+    <Property Name="DaireFiyatlarıID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fiyat" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="indirim" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="ParaBirimi" Type="nvarchar" MaxLength="50" />
+    <Property Name="DaireID" Type="int" />
+  </EntityType>
+  <EntityType Name="Daireler">
+    <Key>
+      <PropertyRef Name="DairelerID" />
+    </Key>
+    <Property Name="DairelerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KategoriID" Type="int" Nullable="false" />
+    <Property Name="MetreKare" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="DaireKati" Type="nvarchar" MaxLength="20" />
+    <Property Name="BanyoSayisi" Type="smallint" Nullable="false" />
+    <Property Name="OdaSayisi" Type="smallint" Nullable="false" />
+    <Property Name="SalonSayisi" Type="smallint" Nullable="false" />
+    <Property Name="MutfakTipi" Type="nvarchar" MaxLength="50" />
+    <Property Name="BalkonAciklama" Type="nvarchar" MaxLength="150" />
+    <Property Name="IsitmaBicimiID" Type="int" Nullable="false" />
+    <Property Name="BahceAciklamasi" Type="nvarchar" MaxLength="100" />
+    <Property Name="BinaKatSayisi" Type="smallint" />
+    <Property Name="Esyalimi" Type="bit" Nullable="false" />
+    <Property Name="ilanTipi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="BinaYasi" Type="smallint" />
+    <Property Name="Aciklama" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="DaireOzellikleri">
+    <Key>
+      <PropertyRef Name="DairelerID" />
+    </Key>
+    <Property Name="DairelerID" Type="int" Nullable="false" />
+    <Property Name="HavuzVarmi" Type="bit" />
+    <Property Name="GüvenlikVarmi" Type="bit" />
+    <Property Name="JeneratorVarmi" Type="bit" />
+    <Property Name="HidroforVarmi" Type="bit" />
+    <Property Name="YanginDedektoruVarmi" Type="bit" />
+    <Property Name="Smartmi" Type="bit" />
+    <Property Name="SporSalanuVarmi" Type="bit" />
+    <Property Name="AsansörVarmi" Type="bit" />
+    <Property Name="CocukOyunAlaniVarmi" Type="bit" />
+    <Property Name="EkAciklamalar" Type="nvarchar" MaxLength="200" />
+    <Property Name="OtoparkVarmi" Type="bit" />
+    <Property Name="Sitemi" Type="bit" />
+  </EntityType>
+  <EntityType Name="Gelirler">
+    <Key>
+      <PropertyRef Name="GelirlerID" />
+    </Key>
+    <Property Name="GelirlerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GelirAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Tarih" Type="datetime" Nullable="false" />
+    <Property Name="ToplamGelir" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="GelirTurID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GelirTurleri">
+    <Key>
+      <PropertyRef Name="GelirTurlerID" />
+    </Key>
+    <Property Name="GelirTurlerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Giderler">
+    <Key>
+      <PropertyRef Name="GiderlerID" />
+    </Key>
+    <Property Name="GiderlerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GiderTuruID" Type="int" Nullable="false" />
+    <Property Name="GiderFiyati" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="GiderTarihi" Type="datetime" Nullable="false" />
+    <Property Name="Aciklama" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="GiderTurleri">
+    <Key>
+      <PropertyRef Name="GiderTurleriID" />
+    </Key>
+    <Property Name="GiderTurleriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GiderTurAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ilceler">
+    <Key>
+      <PropertyRef Name="ilcelerID" />
+    </Key>
+    <Property Name="ilcelerID" Type="int" Nullable="false" />
+    <Property Name="ilPlakaKodu" Type="int" Nullable="false" />
+    <Property Name="ilceAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="iller">
+    <Key>
+      <PropertyRef Name="ilPlakaKodu" />
+    </Key>
+    <Property Name="ilPlakaKodu" Type="int" Nullable="false" />
+    <Property Name="ilAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="isinmaBicimi">
+    <Key>
+      <PropertyRef Name="IsınmaBicmiID" />
+    </Key>
+    <Property Name="IsınmaBicmiID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="isinmaBicimiAdi" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Kategoriler">
+    <Key>
+      <PropertyRef Name="KategorilerID" />
+    </Key>
+    <Property Name="KategorilerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KategoriAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="KullanicilarID" />
+    </Key>
+    <Property Name="KullanicilarID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PersonelTC" Type="char" MaxLength="11" Nullable="false" />
+    <Property Name="KullaniciAdi" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="KullaniciSifre" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="YetkiID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MusteriDaireleri">
+    <Key>
+      <PropertyRef Name="MusteriDairelerID" />
+    </Key>
+    <Property Name="MusteriDairelerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DaireID" Type="int" Nullable="false" />
+    <Property Name="MusteriID" Type="int" Nullable="false" />
+    <Property Name="Fiyat" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Tarih" Type="date" Nullable="false" />
+    <Property Name="Taksitlimi" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Musteriler">
+    <Key>
+      <PropertyRef Name="MusterilerID" />
+    </Key>
+    <Property Name="MusterilerID" Type="int" Nullable="false" />
+    <Property Name="MusteriAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MusteriSoyadi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cinsiyeti" Type="nvarchar" MaxLength="50" />
+    <Property Name="Numarasi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Epostasi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Adresi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Personeller">
+    <Key>
+      <PropertyRef Name="PersonellerID" />
+    </Key>
+    <Property Name="PersonellerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PersonelTC" Type="char" MaxLength="11" Nullable="false" />
+    <Property Name="Adi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Soyadi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cinsiyeti" Type="bit" />
+    <Property Name="Telefonu" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="MailAdresi" Type="nvarchar" MaxLength="30" />
+    <Property Name="Bolumu" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Adresi" Type="nvarchar(max)" />
+    <Property Name="Maas" Type="decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Taksitler">
+    <Key>
+      <PropertyRef Name="TaksitlendirmeID" />
+    </Key>
+    <Property Name="TaksitlendirmeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Taksit1Tarihi" Type="date" />
+    <Property Name="Taksit1" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Taksit2Tarihi" Type="date" />
+    <Property Name="Taksit2" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Taksit3Tarihi" Type="date" />
+    <Property Name="Taksit3" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Taksit4Tarihi" Type="date" />
+    <Property Name="Taksit4" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Taksit5Tarihi" Type="date" />
+    <Property Name="Taksit5" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Taksit6Tarihi" Type="date" />
+    <Property Name="Taksit6" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Taksit7Tarihi" Type="date" />
+    <Property Name="Taksit7" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Taksit8Tarihi" Type="date" />
+    <Property Name="Taksit8" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Taksit9Tarihi" Type="date" />
+    <Property Name="Taksit9" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="MusteriID" Type="int" />
+  </EntityType>
+  <EntityType Name="Yetkiler">
+    <Key>
+      <PropertyRef Name="YetkilerID" />
+    </Key>
+    <Property Name="YetkilerID" Type="int" Nullable="false" />
+    <Property Name="YetkiAdi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_DaireFiyatları_Daireler">
+    <End Role="Daireler" Type="Self.Daireler" Multiplicity="0..1" />
+    <End Role="DaireFiyatları" Type="Self.DaireFiyatları" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Daireler">
+        <PropertyRef Name="DairelerID" />
+      </Principal>
+      <Dependent Role="DaireFiyatları">
+        <PropertyRef Name="DaireID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Daireler_Kategoriler">
+    <End Role="Kategoriler" Type="Self.Kategoriler" Multiplicity="1" />
+    <End Role="Daireler" Type="Self.Daireler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategoriler">
+        <PropertyRef Name="KategorilerID" />
+      </Principal>
+      <Dependent Role="Daireler">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DaireOzellikleri_Daireler">
+    <End Role="Daireler" Type="Self.Daireler" Multiplicity="1" />
+    <End Role="DaireOzellikleri" Type="Self.DaireOzellikleri" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Daireler">
+        <PropertyRef Name="DairelerID" />
+      </Principal>
+      <Dependent Role="DaireOzellikleri">
+        <PropertyRef Name="DairelerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Gelirler_GelirTurleri">
+    <End Role="GelirTurleri" Type="Self.GelirTurleri" Multiplicity="1" />
+    <End Role="Gelirler" Type="Self.Gelirler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GelirTurleri">
+        <PropertyRef Name="GelirTurlerID" />
+      </Principal>
+      <Dependent Role="Gelirler">
+        <PropertyRef Name="GelirTurID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Giderler_GiderTurleri">
+    <End Role="GiderTurleri" Type="Self.GiderTurleri" Multiplicity="1" />
+    <End Role="Giderler" Type="Self.Giderler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GiderTurleri">
+        <PropertyRef Name="GiderTurleriID" />
+      </Principal>
+      <Dependent Role="Giderler">
+        <PropertyRef Name="GiderTuruID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ilceler_iller">
+    <End Role="iller" Type="Self.iller" Multiplicity="1" />
+    <End Role="ilceler" Type="Self.ilceler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="iller">
+        <PropertyRef Name="ilPlakaKodu" />
+      </Principal>
+      <Dependent Role="ilceler">
+        <PropertyRef Name="ilPlakaKodu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kullanicilar_Yetkiler">
+    <End Role="Yetkiler" Type="Self.Yetkiler" Multiplicity="1" />
+    <End Role="Kullanicilar" Type="Self.Kullanicilar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yetkiler">
+        <PropertyRef Name="YetkilerID" />
+      </Principal>
+      <Dependent Role="Kullanicilar">
+        <PropertyRef Name="YetkiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MusteriDaireleri_Daireler">
+    <End Role="Daireler" Type="Self.Daireler" Multiplicity="1" />
+    <End Role="MusteriDaireleri" Type="Self.MusteriDaireleri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Daireler">
+        <PropertyRef Name="DairelerID" />
+      </Principal>
+      <Dependent Role="MusteriDaireleri">
+        <PropertyRef Name="DaireID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MusteriDaireleri_Musteriler">
+    <End Role="Musteriler" Type="Self.Musteriler" Multiplicity="1" />
+    <End Role="MusteriDaireleri" Type="Self.MusteriDaireleri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteriler">
+        <PropertyRef Name="MusterilerID" />
+      </Principal>
+      <Dependent Role="MusteriDaireleri">
+        <PropertyRef Name="MusteriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Taksitler_Musteriler">
+    <End Role="Musteriler" Type="Self.Musteriler" Multiplicity="0..1" />
+    <End Role="Taksitler" Type="Self.Taksitler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteriler">
+        <PropertyRef Name="MusterilerID" />
+      </Principal>
+      <Dependent Role="Taksitler">
+        <PropertyRef Name="MusteriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EmlakMelegiDBModelStoreContainer">
+    <EntitySet Name="Bankalar" EntityType="Self.Bankalar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DaireFiyatları" EntityType="Self.DaireFiyatları" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Daireler" EntityType="Self.Daireler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DaireOzellikleri" EntityType="Self.DaireOzellikleri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Gelirler" EntityType="Self.Gelirler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GelirTurleri" EntityType="Self.GelirTurleri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Giderler" EntityType="Self.Giderler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GiderTurleri" EntityType="Self.GiderTurleri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ilceler" EntityType="Self.ilceler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="iller" EntityType="Self.iller" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="isinmaBicimi" EntityType="Self.isinmaBicimi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kategoriler" EntityType="Self.Kategoriler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kullanicilar" EntityType="Self.Kullanicilar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MusteriDaireleri" EntityType="Self.MusteriDaireleri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Musteriler" EntityType="Self.Musteriler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Personeller" EntityType="Self.Personeller" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Taksitler" EntityType="Self.Taksitler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Yetkiler" EntityType="Self.Yetkiler" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DaireFiyatları_Daireler" Association="Self.FK_DaireFiyatları_Daireler">
+      <End Role="Daireler" EntitySet="Daireler" />
+      <End Role="DaireFiyatları" EntitySet="DaireFiyatları" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Daireler_Kategoriler" Association="Self.FK_Daireler_Kategoriler">
+      <End Role="Kategoriler" EntitySet="Kategoriler" />
+      <End Role="Daireler" EntitySet="Daireler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DaireOzellikleri_Daireler" Association="Self.FK_DaireOzellikleri_Daireler">
+      <End Role="Daireler" EntitySet="Daireler" />
+      <End Role="DaireOzellikleri" EntitySet="DaireOzellikleri" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Gelirler_GelirTurleri" Association="Self.FK_Gelirler_GelirTurleri">
+      <End Role="GelirTurleri" EntitySet="GelirTurleri" />
+      <End Role="Gelirler" EntitySet="Gelirler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Giderler_GiderTurleri" Association="Self.FK_Giderler_GiderTurleri">
+      <End Role="GiderTurleri" EntitySet="GiderTurleri" />
+      <End Role="Giderler" EntitySet="Giderler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ilceler_iller" Association="Self.FK_ilceler_iller">
+      <End Role="iller" EntitySet="iller" />
+      <End Role="ilceler" EntitySet="ilceler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kullanicilar_Yetkiler" Association="Self.FK_Kullanicilar_Yetkiler">
+      <End Role="Yetkiler" EntitySet="Yetkiler" />
+      <End Role="Kullanicilar" EntitySet="Kullanicilar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MusteriDaireleri_Daireler" Association="Self.FK_MusteriDaireleri_Daireler">
+      <End Role="Daireler" EntitySet="Daireler" />
+      <End Role="MusteriDaireleri" EntitySet="MusteriDaireleri" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MusteriDaireleri_Musteriler" Association="Self.FK_MusteriDaireleri_Musteriler">
+      <End Role="Musteriler" EntitySet="Musteriler" />
+      <End Role="MusteriDaireleri" EntitySet="MusteriDaireleri" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Taksitler_Musteriler" Association="Self.FK_Taksitler_Musteriler">
+      <End Role="Musteriler" EntitySet="Musteriler" />
+      <End Role="Taksitler" EntitySet="Taksitler" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,134 @@
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\190929_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe.config
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\190929_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\190929_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.pdb
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\190929_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csprojAssemblyReference.cache
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\190929_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMusteriler.resources
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\190929_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.Properties.Resources.resources
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\190929_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csproj.GenerateResource.cache
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\190929_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csproj.CoreCompileInputs.cache
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\190929_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.exe
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\190929_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.pdb
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\190929_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMenu.resources
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe.config
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.pdb
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csprojAssemblyReference.cache
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMenu.resources
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMusteriler.resources
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmPersoneller.resources
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.Properties.Resources.resources
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csproj.GenerateResource.cache
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csproj.CoreCompileInputs.cache
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.exe
+D:\190629 Hafta Sonu 1419\4-Emlak MelegiProjesi\191006_EmlakMelegi_V1\EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.pdb
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe.config
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.pdb
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.BusinessLogicLayer.dll
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.DatabaseLogicLayer.dll
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\FakeData.dll
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.BusinessLogicLayer.pdb
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.BusinessLogicLayer.dll.config
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.DatabaseLogicLayer.pdb
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.DatabaseLogicLayer.dll.config
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\FakeData.pdb
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csprojAssemblyReference.cache
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMenu.resources
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMusteriler.resources
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmPersoneller.resources
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.Properties.Resources.resources
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csproj.GenerateResource.cache
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csproj.CopyComplete
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.exe
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.pdb
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aysen\Downloads\191006_EmlakMelegi_V1\191006_EmlakMelegi_V1\Versiyon Güncellemesi\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe.config
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.exe
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.pdb
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.pdb
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.BusinessLogicLayer.dll
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.DatabaseLogicLayer.dll
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\FakeData.dll
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.BusinessLogicLayer.pdb
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.DatabaseLogicLayer.pdb
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\FakeData.pdb
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMenu.resources
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMusteriler.resources
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmPersoneller.resources
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.Properties.Resources.resources
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csproj.GenerateResource.Cache
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\local.egitmen\Desktop\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe.config
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.exe
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.pdb
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.pdb
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.BusinessLogicLayer.dll
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.DatabaseLogicLayer.dll
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\FakeData.dll
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.BusinessLogicLayer.pdb
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.DatabaseLogicLayer.pdb
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\FakeData.pdb
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMenu.resources
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMusteriler.resources
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmPersoneller.resources
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.Properties.Resources.resources
+C:\Users\fuat.meydan\Desktop\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csproj.GenerateResource.Cache
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe.config
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.exe
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.pdb
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.pdb
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.BusinessLogicLayer.dll
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.DatabaseLogicLayer.dll
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.dll
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\FakeData.dll
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.BusinessLogicLayer.pdb
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.DatabaseLogicLayer.pdb
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.xml
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\FakeData.pdb
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csprojResolveAssemblyReference.cache
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMenu.resources
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMusteriler.resources
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmPersoneller.resources
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.Properties.Resources.resources
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csproj.GenerateResource.Cache
+D:\Emlak Meleği\Fuat\Yeni klasör (2)\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmKategoriler.resources
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe.config
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.exe
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.pdb
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.exe
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.UserInterface.pdb
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.BusinessLogicLayer.dll
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.DatabaseLogicLayer.dll
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\FakeData.dll
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.BusinessLogicLayer.pdb
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EmlakMelegi.DatabaseLogicLayer.pdb
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\bin\Debug\FakeData.pdb
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmKategoriler.resources
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMenu.resources
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmMusteriler.resources
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.FrmPersoneller.resources
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.Properties.Resources.resources
+C:\Users\fuat.meydan\Desktop\191019_EmlakMelegi_V1\VersiyonUpdate_EmlakMelegi\EmlakMelegi.UserInterface\obj\Debug\EmlakMelegi.UserInterface.csproj.GenerateResource.Cache
